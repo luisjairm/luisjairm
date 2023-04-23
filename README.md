@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native and React<br><br>📝 I regularly write articles on https://luisjairm.github.io/<br><br>💬 Ask me about JavaScript, React, React Native<br><br>⚡ Fun fact I thick i am funny
+🌱 I’m currently learning React Native and React<br><br>📝 I regularly write articles on https://luisjairm.github.io/<br><br>💬 Ask me about JavaScript, React, React Native<br><br>⚡ Fun fact i am funny
 
 
 ## 🌐 Socials:
